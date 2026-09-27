@@ -1,0 +1,20 @@
+# Research data and corpora — not redistributable, and holding offensive content
+datasets/
+results/
+exchange/
+
+# Generated artefacts
+charts/
+figures/
+tables/
+*.xlsx
+*.parquet
+
+# Model weights
+models/**/model_files/
+
+# Environment
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
