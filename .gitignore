@@ -18,3 +18,12 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# Local tooling and notes
+.vscode/
+
+# Legacy / empty scripts kept locally only
+charter.py
+settings.py
+test_fastapi.py
+models/pl/emotions_original.py

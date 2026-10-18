@@ -1,0 +1,13 @@
+pandas
+pyarrow
+pydantic
+pydantic-settings
+transformers[torch]
+openpyxl
+lxml
+bs4
+matplotlib
+# keras==2.12.0
+# tensorflow==2.12.1
+# tensorflow-estimator==2.12.0
+# tensorflow-io-gcs-filesystem==0.32.0
